@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Lusanda I am a Marketing grad w/ sales exp currently a BSc IT student + ALX Africa Frontend & Backend learner · Bridging business & tech through human-centered software
+My Name is Lusanda I am a Marketing grad w/ sales exp currently a BSc IT student.
 
 
 ## 🌐 Socials:
